@@ -71,13 +71,6 @@ function dropMissingData(students):
 
 """
 
-#!/usr/bin/env python3
-"""
-2883. Drop Missing Data
-
-Remove rows in a DataFrame where the 'name' column has missing values.
-"""
-
 import pandas as pd
 
 
