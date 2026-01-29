@@ -77,15 +77,6 @@ function createBonusColumn(employees):
 
 """
 
-
-#!/usr/bin/env python3
-"""
-2881. Create a New Column
-
-Add a new column 'bonus' to a DataFrame,
-where bonus = 2 * salary.
-"""
-
 import pandas as pd
 
 
