@@ -74,15 +74,6 @@ function modifySalaryColumn(employees):
 
 """
 
-
-#!/usr/bin/env python3
-"""
-2884. Modify Columns
-
-Update the 'salary' column in a DataFrame
-by multiplying each salary by 2.
-"""
-
 import pandas as pd
 
 
