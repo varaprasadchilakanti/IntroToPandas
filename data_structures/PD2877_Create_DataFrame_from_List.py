@@ -62,14 +62,6 @@ function createDataframe(student_data):
 
 """
 
-#!/usr/bin/env python3
-"""
-2877. Create a DataFrame from List
-
-Transform a 2D list of student data into a Pandas DataFrame
-with columns 'student_id' and 'age'.
-"""
-
 from typing import List
 import pandas as pd
 
