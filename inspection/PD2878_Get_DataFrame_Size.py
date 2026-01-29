@@ -74,15 +74,6 @@ function getDataframeSize(players):
 
 """
 
-
-#!/usr/bin/env python3
-"""
-2878. Get the Size of a DataFrame
-
-Compute the number of rows and columns in a Pandas DataFrame.
-Return result as [rows, columns].
-"""
-
 from typing import List
 import pandas as pd
 
