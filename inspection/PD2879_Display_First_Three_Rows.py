@@ -71,13 +71,6 @@ function selectFirstRows(employees):
 
 """
 
-#!/usr/bin/env python3
-"""
-2879. Display the First Three Rows
-
-Return the first three rows of a Pandas DataFrame.
-"""
-
 import pandas as pd
 
 
